@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI Chatbot",
-  description: "AI Chatbot powered by OpenRouter",
+  title: "Smart Chat",
+  description:
+    "Your intelligent AI chat AI-powered chat for everyday conversations.",
 };
 
 export default function RootLayout({
